@@ -1,8 +1,8 @@
-module github.com/multipackage_1/package_1
+module github.com/h31/multi_packages/package_1
 
 go 1.18
 
 require (
-	github.com/multipackage_1/package_2 v0.0.0
-	github.com/multipackage_1/package_3 v0.0.0
+	github.com/h31/multi_packages/package_2 latest
+	github.com/h31/multi_packages/package_3 latest
 )

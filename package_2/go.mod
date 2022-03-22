@@ -1,3 +1,3 @@
-module github.com/multipackage_1/package_2
+module github.com/h31/multi_packages/package_2
 
 go 1.18
